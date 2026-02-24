@@ -1,24 +1,38 @@
-<h1 align="center">Hi 👋, I'm Abbas Raza</h1>
-<h3 align="center">
-Software Design Engineer | Computer Systems Engineer | Machine Learning & Computer Vision
-</h3>
+# 👋 Hi, I'm Abbas Raza
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abbas%20Raza-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abbas-raza-a74a61238) 
+[![GitHub](https://img.shields.io/badge/GitHub-CIS--Abbas--Raza-black?style=flat-square&logo=github)](https://github.com/CIS-Abbas-Raza)
+
+### Software Design Engineer | Computer Systems Engineer | Machine Learning & Computer Vision
+
+---
+
+## 📖 Table of Contents
+- [About Me](#about-me)
+- [Current Role](#current-role)
+- [Research & Engineering Highlights](#research--engineering-highlights)
+- [Technical Skills](#technical-skills)
+- [Selected Projects](#selected-projects)
+- [Contact](#contact)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Computer Systems Engineer** currently working as a  
-**Software Design Engineer**, with experience in **distributed backend systems**,  
-**machine learning**, **computer vision**, and **full-stack development**.
+I am a **Computer Systems Engineer** currently working as a **Software Design Engineer**, with experience in:
 
-I have contributed to **peer-reviewed research in medical diagnostics**, built  
-**real-world AI and IoT systems**, and worked on **enterprise-scale microservices**.
+- Distributed backend systems  
+- Machine learning & computer vision  
+- Full-stack web development  
 
-My primary interests include:
-- AI for Healthcare
-- Computer Vision & OCR
-- Distributed Systems
-- Scalable Backend Architectures
+I have contributed to **peer-reviewed research in medical diagnostics**, built **real-world AI & IoT systems**, and worked on **enterprise-scale microservices**.  
+
+**Primary interests:**
+
+- AI for Healthcare  
+- Computer Vision & OCR  
+- Distributed Systems  
+- Scalable Backend Architectures  
 
 ---
 
@@ -27,62 +41,64 @@ My primary interests include:
 ### Software Design Engineer  
 **Teresol Pvt Ltd** | Karachi, Pakistan | *Oct 2025 – Present*
 
-- Developing and enhancing **enterprise-level backend systems** using **Java and Quarkus**
-- Working on **distributed microservice architectures** with a focus on performance and reliability
-- Collaborating with cross-functional teams in an **Agile environment**
-- Contributing to system design, debugging, and optimization of production services
+- Developing and enhancing **enterprise-level backend systems** using **Java & Quarkus**  
+- Working on **distributed microservice architectures** with focus on performance and reliability  
+- Collaborating with cross-functional teams in an **Agile environment**  
+- Contributing to **system design, debugging, and optimization** of production services  
 
 ---
 
 ## 🔬 Research & Engineering Highlights
 
-- 📄 Published research on **machine learning–based diagnosis of pancreatic cancer**
-- 🔌 Designed an **IoT-based smart energy monitoring system** using ESP32 and OCR
-- 🤖 Built **real-time object detection systems** using YOLO
-- ☁️ Developed and deployed **distributed applications on AWS EC2**
+- 📄 Published research on **ML-based diagnosis of pancreatic cancer**  
+- 🔌 Designed an **IoT-based smart energy monitoring system** using ESP32 & OCR  
+- 🤖 Built **real-time object detection systems** using YOLO  
+- ☁️ Developed and deployed **distributed applications on AWS EC2**  
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages:**  
-Python, Java, JavaScript, C++, SQL
+**Languages:** Python, Java, JavaScript, C++, SQL  
 
-**Machine Learning & Computer Vision:**  
-PyTorch, TensorFlow, OpenCV, Scikit-learn, Tesseract, Pandas, NumPy
+**Machine Learning & Computer Vision:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Tesseract, Pandas, NumPy  
 
-**Backend & Web:**  
-React.js, Flask, Node.js, Django, REST APIs, Quarkus
+**Backend & Web:** React.js, Flask, Node.js, Django, REST APIs, Quarkus  
 
-**Tools & Platforms:**  
-Git, Docker, AWS EC2, Firebase, MySQL, Arduino IDE
+**Tools & Platforms:** Git, Docker, AWS EC2, Firebase, MySQL, Arduino IDE  
 
 ---
 
 ## 🚀 Selected Projects
 
-- **Real-Time Object Detection (YOLOv8)**  
-  High-accuracy real-time object detection on a custom dataset  
-  🔗 https://github.com/CIS-Abbas-Raza/Object-Detection
+### 1. Real-Time Object Detection (YOLOv8)  
+High-accuracy real-time object detection on a custom dataset.  
+**Tech:** Python, PyTorch, OpenCV  
+🔗 [GitHub Repo](https://github.com/CIS-Abbas-Raza/Object-Detection)  
 
-- **Distributed Word Counter (AWS EC2)**  
-  Master–worker architecture with measurable performance improvements  
-  🔗 https://github.com/CIS-Abbas-Raza/Distributed-Word-Counter
+### 2. Distributed Word Counter (AWS EC2)  
+Master–worker architecture with measurable performance improvements.  
+**Tech:** Java, AWS EC2, Docker  
+🔗 [GitHub Repo](https://github.com/CIS-Abbas-Raza/Distributed-Word-Counter)  
 
-- **Road Accident Prediction System**  
-  ML-powered prediction system with analytics dashboard  
-  🔗 https://github.com/CIS-Abbas-Raza/Road-Accident-Predicton-By-Vehicle-Type
+### 3. Road Accident Prediction System  
+ML-powered prediction system with analytics dashboard.  
+**Tech:** Python, Flask, Pandas, Scikit-learn  
+🔗 [GitHub Repo](https://github.com/CIS-Abbas-Raza/Road-Accident-Prediction-By-Vehicle-Type)  
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: cis.abbasraza@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/abbas-raza-a74a61238  
-- 🐙 GitHub: https://github.com/CIS-Abbas-Raza
+- 💼 LinkedIn: [Abbas Raza](https://www.linkedin.com/in/abbas-raza-a74a61238)  
+- 🐙 GitHub: [CIS-Abbas-Raza](https://github.com/CIS-Abbas-Raza)  
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cis-abbas-raza&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cis-abbas-raza&layout=compact" />
 </p>
