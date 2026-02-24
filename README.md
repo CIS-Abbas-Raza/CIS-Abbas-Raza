@@ -91,13 +91,11 @@ ML-powered prediction system with analytics dashboard.
 ## 📫 Contact
 
 - 📧 Email: cis.abbasraza@gmail.com  
-- 💼 LinkedIn: [Abbas Raza](https://www.linkedin.com/in/abbas-raza-a74a61238)  
-- 🐙 GitHub: [CIS-Abbas-Raza](https://github.com/CIS-Abbas-Raza)  
 
 ---
-## 📊 GitHub Stats & Badges
+## 📈 GitHub Streak
 
-[![GitHub followers](https://img.shields.io/github/followers/CIS-Abbas-Raza?style=social)](https://github.com/CIS-Abbas-Raza)
-[![Top Language](https://img.shields.io/github/languages/top/CIS-Abbas-Raza?style=flat-square&color=blue)](https://github.com/CIS-Abbas-Raza)
-[![Repo Count](https://img.shields.io/github/repos/CIS-Abbas-Raza?style=flat-square&color=green)](https://github.com/CIS-Abbas-Raza)
-[![Last Commit](https://img.shields.io/github/last-commit/CIS-Abbas-Raza?style=flat-square&color=orange)](https://github.com/CIS-Abbas-Raza)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CIS-Abbas-Raza&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
